@@ -68,14 +68,14 @@ Me chamo Igor Menezes, tenho 20 anos e sou natural de Sergipe. Atualmente, estou
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Igormnz-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Igormnz-dev&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igormnz-dev&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igormnz-dev&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
