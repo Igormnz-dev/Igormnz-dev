@@ -5,9 +5,19 @@
 Me chamo Igor Menezes, tenho 20 anos e sou natural de Sergipe. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Tenho grande interesse por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais. Sou fascinado por back-end e hacking ético, sempre explorando como sistemas funcionam e como torná-los mais eficientes e seguros.
 
 <p align="left">
-    <a href="https://discord.com/users/1172690350243069974" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href = "mailto:igormnz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/igor-menezess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/oigotte/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="mailto:igormnz.dev@gmail.com">
+  <img
+    alt="Gmail"
+    title="Enviar e-mail para Gmail"
+    src="https://custom-icon-badges.demolab.com/badge/Gmail-d7ab00?style=for-the-badge&logo=mail&logoColor=white&labelColor=d7ab00&color=d7ab00"></a>
+    <a href="https://www.linkedin.com/in/igor-dev-8648213b0/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/Igormnz-dev?tab=repositories&sort=stargazers">
+  <img
+    alt="Total de estrelas"
+    title="Total de estrelas GitHub"
+    src="https://custom-icon-badges.demolab.com/github/stars/Igormnz-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"></a>
 </p>
 
 
@@ -55,7 +65,22 @@ Me chamo Igor Menezes, tenho 20 anos e sou natural de Sergipe. Atualmente, estou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="AzureSQLdatabase" 
+    title="AzureSQLdatabase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
 
 <br/>
 <br/>
